@@ -6,9 +6,9 @@
 
 * Apache
 * MySQL
-* PHP 7
-* Ruby 2.3
-* Node.js 6.5
+* PHP 7.4
+* Ruby 2.7
+* Node.js 12.x
 
 ## How to create a box
 
